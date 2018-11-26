@@ -1,0 +1,6 @@
+framework module pymidi13 {
+  umbrella header "pymidi13.h"
+
+  export *
+  module * { export * }
+}
